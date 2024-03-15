@@ -1,0 +1,7 @@
+fail: exercise2 WordL js_q2c_1 applyWordFunc -- error: Expected values to be strictly equal:
+false !== true
+fail: exercise3 js_q3c_3 new foreign student -- error: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+fail: exercise4 js_q4__2 prom.read -- error: Cannot read properties of undefined (reading 'length')
+fail: exercise4 js_q4__6 read recreates class instances -- error: Cannot read properties of undefined (reading '0')
+Passed: 20
+Failed: 4

@@ -1,0 +1,19 @@
+#d1{
+    border: 1px solid #000000;
+    padding: 13px;
+}
+#img1{
+    float: left;
+    padding: 11px;
+}
+#d3{
+    background-color: dimgrey;
+    margin: 10px;
+}
+.class3{
+    position: fixed;
+    top: 119px;
+    left: 119px;
+    width: 425px;
+    height: 425px;
+}
